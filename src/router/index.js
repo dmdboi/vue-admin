@@ -12,7 +12,7 @@ Vue.use(VueRouter)
   },
   {
     path: '/users',
-    name: 'About',
+    name: 'USers',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
@@ -20,7 +20,7 @@ Vue.use(VueRouter)
   },
   {
     path: '/analytics',
-    name: 'About',
+    name: 'Analytics',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
@@ -28,7 +28,7 @@ Vue.use(VueRouter)
   },
   {
     path: '/notifications',
-    name: 'About',
+    name: 'Notifications',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
@@ -36,7 +36,7 @@ Vue.use(VueRouter)
   },
   {
     path: '/settings',
-    name: 'About',
+    name: 'Settings',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
