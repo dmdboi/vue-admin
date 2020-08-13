@@ -20,10 +20,25 @@
             <td class="border px-2 py-2">m.heatherfield@gmail.com</td>
             <td class="border px-4 py-2">Premium</td>
             <td class="border px-4 py-2">£15.00</td>
-            <td class="border px-4 py-2">3/09/2020</td>
+            <td class="border px-4 py-2">07/09/2020</td>
             <td class="border px-4 py-2">27/03/2020</td>
           </tr>
-
+           <tr>
+            <td class="border px-4 py-2">David Swimmer</td>
+            <td class="border px-2 py-2">d.swimmer@gmail.com</td>
+            <td class="border px-4 py-2">Basic</td>
+            <td class="border px-4 py-2">£5.00</td>
+            <td class="border px-4 py-2">04/9/2020</td>
+            <td class="border px-4 py-2">18/11/2019</td>
+          </tr>
+          <tr>
+            <td class="border px-4 py-2">Mike Heatherfield</td>
+            <td class="border px-2 py-2">m.heatherfield@gmail.com</td>
+            <td class="border px-4 py-2">Diamond</td>
+            <td class="border px-4 py-2">£20.00</td>
+            <td class="border px-4 py-2">24/09/2020</td>
+            <td class="border px-4 py-2">01/05/2019</td>
+          </tr>
         </tbody>
       </table>
     </div>
