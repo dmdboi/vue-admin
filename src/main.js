@@ -3,6 +3,7 @@ import App from './App.vue'
 import store from './store'
 import router from './router'
 import './assets/tailwind.css'
+import './assets/markdown.css'
 import VueApexCharts from "vue-apexcharts";
 import VueShowdown from 'vue-showdown'
 

@@ -46,43 +46,43 @@
         </div>
       </div>
       <div class="w-1/2 md:w-1/6 px-8 mb-4 md:mb-0">
+        <div class="shadow rounded bg-white py-2  w-48">
+          <h3 class="text-gray-700 text-3xl mt-5 font-medium text-center">
+            5m 40s
+          </h3>
+          <p class="text-center pb-4">Session Time</p>
+        </div>
+      </div>
+      <div class="w-1/2 md:w-1/6 px-8 mb-4 md:mb-0">
         <div class="shadow rounded bg-white py-2 w-48">
           <h3 class="text-gray-700 text-3xl mt-5 font-medium text-center">
-            12,696
+            3.7
           </h3>
-          <p class="text-center pb-4">Sessions</p>
+          <p class="text-center pb-4">Page/Sessions</p>
         </div>
       </div>
       <div class="w-1/2 md:w-1/6 px-8 mb-4 md:mb-0">
         <div class="shadow rounded bg-white py-2 w-48">
           <h3 class="text-gray-700 text-3xl mt-5 font-medium text-center">
-            12,696
+            9734
           </h3>
-          <p class="text-center pb-4">Sessions</p>
+          <p class="text-center pb-4">Page Views</p>
         </div>
       </div>
       <div class="w-1/2 md:w-1/6 px-8 mb-4 md:mb-0">
         <div class="shadow rounded bg-white py-2  w-48">
           <h3 class="text-gray-700 text-3xl mt-5 font-medium text-center">
-            12,696
+            68.3%
           </h3>
-          <p class="text-center pb-4">Sessions</p>
+          <p class="text-center pb-4">Bounce Rate</p>
         </div>
       </div>
       <div class="w-1/2 md:w-1/6 px-8 mb-4 md:mb-0">
         <div class="shadow rounded bg-white py-2  w-48">
           <h3 class="text-gray-700 text-3xl mt-5 font-medium text-center">
-            12,696
+            17
           </h3>
-          <p class="text-center pb-4">Sessions</p>
-        </div>
-      </div>
-      <div class="w-1/2 md:w-1/6 px-8 mb-4 md:mb-0">
-        <div class="shadow rounded bg-white py-2  w-48">
-          <h3 class="text-gray-700 text-3xl mt-5 font-medium text-center">
-            12,696
-          </h3>
-          <p class="text-center pb-4">Sessions</p>
+          <p class="text-center pb-4">Active Users</p>
         </div>
       </div>
     </div>

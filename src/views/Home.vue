@@ -1,7 +1,6 @@
 <template>
   <div class="container px-10 mx-auto">
     <h3 class="text-gray-700 text-3xl mt-5 font-medium">Dashboard</h3>
-
     <div class="flex flex-wrap -mx-8 my-3">
       <div class="w-1/2 md:w-1/4 px-8 mb-4 md:mb-0">
         <div class="shadow rounded bg-white py-2 px-3 text-center">
@@ -36,9 +35,55 @@
       </div>
     </div>
 
-    
 
-    
+    <h3 class="text-gray-700 text-3xl mt-5 font-medium pt-5">Notifications</h3>
+    <div class="flex flex-wrap my-3">
+      <div class="w-1/2 mb-4 lg:mb-0 bg-white rounded shadow w-1/2 p-5">
+        <div class="bg-white rounded-lg border-gray-300 border p-3 my-3">
+          <div class="flex flex-row">
+            <div class="px-2">
+              <svg width="24" height="24" viewBox="0 0 1792 1792" fill="#44C997" xmlns="http://www.w3.org/2000/svg">
+                <path d="M1299 813l-422 422q-19 19-45 19t-45-19l-294-294q-19-19-19-45t19-45l102-102q19-19 45-19t45 19l147 147 275-275q19-19 45-19t45 19l102 102q19 19 19 45t-19 45zm141 83q0-148-73-273t-198-198-273-73-273 73-198 198-73 273 73 273 198 198 273 73 273-73 198-198 73-273zm224 0q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"/>
+                </svg>
+            </div>
+            <div class="ml-2 mr-6">
+              <span class="font-semibold">A new Subscriber!</span>
+              <span class="block text-gray-500">A customer has signed up to Basic package</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-lg border-gray-300 border p-3 my-3">
+          <div class="flex flex-row">
+            <div class="px-2">
+              <svg width="24" height="24" viewBox="0 0 1792 1792" fill="#44C997" xmlns="http://www.w3.org/2000/svg">
+                <path d="M1299 813l-422 422q-19 19-45 19t-45-19l-294-294q-19-19-19-45t19-45l102-102q19-19 45-19t45 19l147 147 275-275q19-19 45-19t45 19l102 102q19 19 19 45t-19 45zm141 83q0-148-73-273t-198-198-273-73-273 73-198 198-73 273 73 273 198 198 273 73 273-73 198-198 73-273zm224 0q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"/>
+                </svg>
+            </div>
+            <div class="ml-2 mr-6">
+              <span class="font-semibold">A new Subscriber!</span>
+              <span class="block text-gray-500">A customer has signed up to Basic package</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-lg border-gray-300 border p-3 my-3">
+          <div class="flex flex-row">
+            <div class="px-2">
+              <svg width="24" height="24" viewBox="0 0 1792 1792" fill="#44C997" xmlns="http://www.w3.org/2000/svg">
+                <path d="M1299 813l-422 422q-19 19-45 19t-45-19l-294-294q-19-19-19-45t19-45l102-102q19-19 45-19t45 19l147 147 275-275q19-19 45-19t45 19l102 102q19 19 19 45t-19 45zm141 83q0-148-73-273t-198-198-273-73-273 73-198 198-73 273 73 273 198 198 273 73 273-73 198-198 73-273zm224 0q0 209-103 385.5t-279.5 279.5-385.5 103-385.5-103-279.5-279.5-103-385.5 103-385.5 279.5-279.5 385.5-103 385.5 103 279.5 279.5 103 385.5z"/>
+                </svg>
+            </div>
+            <div class="ml-2 mr-6">
+              <span class="font-semibold">A new Subscriber!</span>
+              <span class="block text-gray-500">A customer has signed up to Basic package</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
   </div>
 </template>
 
