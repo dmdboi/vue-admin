@@ -19,7 +19,7 @@
             <td class="border px-4 py-3">Mike Heatherfield</td>
             <td class="border px-2 py-3">m.heatherfield@gmail.com</td>
             <td class="border px-4 py-3">Premium</td>
-            <td class="border px-4 py-3">£15.00</td>
+            <td class="border px-4 py-3">£17.69</td>
             <td class="border px-4 py-3">07/09/2020</td>
             <td class="border px-4 py-3">27/03/2020</td>
           </tr>
