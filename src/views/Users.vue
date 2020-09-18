@@ -27,7 +27,7 @@
             <td class="border px-4 py-3">David Tennant</td>
             <td class="border px-2 py-2">d.swimmer@gmail.com</td>
             <td class="border px-4 py-2">Basic</td>
-            <td class="border px-4 py-2">£5.00</td>
+            <td class="border px-4 py-2">£6.00</td>
             <td class="border px-4 py-2">04/9/2020</td>
             <td class="border px-4 py-2">18/11/2019</td>
           </tr>
