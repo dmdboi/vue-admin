@@ -24,7 +24,7 @@
             <td class="border px-4 py-3">27/03/2020</td>
           </tr>
            <tr>
-            <td class="border px-4 py-3">David Swimmer</td>
+            <td class="border px-4 py-3">David Tennant</td>
             <td class="border px-2 py-2">d.swimmer@gmail.com</td>
             <td class="border px-4 py-2">Basic</td>
             <td class="border px-4 py-2">£5.00</td>
